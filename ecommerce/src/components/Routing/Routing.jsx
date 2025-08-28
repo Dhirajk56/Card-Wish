@@ -1,4 +1,3 @@
-import React from "react";
 import HomePage from "../Home/HomePage";
 import ProductsPage from "../Products/ProductsPage";
 import SingleProductPage from "../SingleProduct/SingleProductPage";

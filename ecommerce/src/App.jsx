@@ -1,5 +1,4 @@
-import React from "react";
-import Routing from "./components/Routing/routing.jsx";
+import Routing from "./components/Routing/Routing.jsx";
 import { Navbar } from "./components/Navbar/Navbar.jsx";
 
 import "./App.css";
