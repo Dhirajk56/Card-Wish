@@ -1,8 +1,7 @@
-import React from "react";
 import iphone from "../../assets/iphone-14-pro.webp";
 import mac from "../../assets/mac-system-cut.png";
 import HeroSection from "./HeroSection";
-import FeaturedProduct from "./featuredProduct";
+import FeaturedProduct from "./FeaturedProduct.jsx";
 const HomePage = () => {
   return (
     <div>
