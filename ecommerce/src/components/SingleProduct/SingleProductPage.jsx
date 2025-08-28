@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./singleProductPage.css";
+import "./SingleProductPage.css";
 import QuantityInput from "./QuantityInput";
 import { useParams } from "react-router-dom";
 import useData from "../../hooks/useData";
